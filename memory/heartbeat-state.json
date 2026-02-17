@@ -1,0 +1,7 @@
+{
+  "lastCheck": "2026-02-16T09:30:00-08:00",
+  "checks": ["system", "cron", "resources", "logs"],
+  "status": "ok",
+  "issues": [],
+  "notes": "All systems healthy. No issues detected."
+}
